@@ -127,7 +127,7 @@ function wb(round,rowIdx,colIdx) {
 }
     function home() {
  return new Promise((resolve) => {
-  let body = {"linkId":"yCcpwTLIbY6pjaM42ACUVg"}
+  let body = {"linkId":"pTTvJeSTrpthgk9ASBVGsw"}
   $.get(taskurl('happyDigHome',body), async (err, resp, data) => {
       // console.log(data)  
       try {
@@ -199,7 +199,7 @@ function wb(round,rowIdx,colIdx) {
  return new Promise((resolve) => {
  
   const nm= {
-    url: `${JD_API_HOST}/?functionId=happyDigHelp&body={"linkId":"yCcpwTLIbY6pjaM42ACUVg","inviter":"${a}","inviteCode":"${b}"}&t=1635561607124&appid=activities_platform&client=H5&clientVersion=1.0.0`,
+    url: `${JD_API_HOST}/?functionId=happyDigHelp&body={"linkId":"pTTvJeSTrpthgk9ASBVGsw","inviter":"${a}","inviteCode":"${b}"}&t=1635561607124&appid=activities_platform&client=H5&clientVersion=1.0.0`,
    
     headers: {
 
