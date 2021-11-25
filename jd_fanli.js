@@ -128,7 +128,7 @@ for(let i=0;i<task;i++){
              if(taskId!=null){
               console.log(taskName)
               await saveTask(taskId,taskType)
-              await $.wait(10000)
+              await $.wait(20000)
               await saveTaskRecord(taskId,taskType)
              }
              }
