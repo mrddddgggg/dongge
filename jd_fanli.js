@@ -205,7 +205,7 @@ function saveTask(taskId,taskType) {
 
              }             
              else if(data.code==0){
-             console.log(`${data.content.msg}`)
+             //console.log(`${data.content.msg}`)
               
           }
 
