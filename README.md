@@ -6,7 +6,9 @@
 
 TG:https://t.me/gjds9
 
+The Qing Long Repo
 
+ql repo https://github.com/mrddddgggg/dongge.git "jd_|USER_AGENTS|jdCookie"
 
 
 
