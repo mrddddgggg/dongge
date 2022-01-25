@@ -1,7 +1,8 @@
 /*
 搞鸡玩家-战豆大挑战
 Last Modified time: 2022-1-25
-活动入口：https://zcjb-increase.jd.com/
+活动入口：https://zcjb-increase.jd.com/#/Invite?channel=TASK_PLATFORM_CHANNEL_68&encryptActivityId=8nksiPz4HrY=&transactionIdentity=2ba7a720e821b6cd22c95b172f175c3b4def1e04124a662bba550ff87a1de74c058771d9dc7c74f4a67947d0457d30d6&pageId=865f5a18296d387d09ecf9d93725fd3a
+点击已完成助力进入入口
 更新地址：jd_bridge.js
 已支持IOS双京东账号, Node.js支持N个京东账号
 脚本兼容: QuantumultX, Surge, Loon, 小火箭，JSBox, Node.js
