@@ -18,7 +18,7 @@ cron "40 0,2 * * *" script-path=https://github.com/mrddddgggg/dongge/raw/main/jd
 ============小火箭=========
 虎娃迎福 = type=cron,script-path=https://github.com/mrddddgggg/dongge/raw/main/jd_hwyf.js, cronexpr="40 0,2 * * *", timeout=3600, enable=true
  */
-const $ = new Env('虎娃迎福');
+const $ = new Env('虎娃迎福&&JOY的年味大挑战');
 const notify = $.isNode() ? require('./sendNotify') : '';
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
