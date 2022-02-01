@@ -1,11 +1,11 @@
 /*
 修改自Aaron-lv的许愿池
-虎娃迎福
+
 活动入口：京东-边赚边玩-虎娃迎福
 脚本兼容: QuantumultX, Surge, Loon, JSBox, Node.js
 ===============Quantumultx===============
 [task_local]
-#虎娃迎福
+#虎娃迎福-JOY的年味大挑战-新年宠粉
 40 0,2 * * * https://github.com/mrddddgggg/dongge/raw/main/jd_hwyf.js, tag=虎娃迎福, img-url=https://user-images.githubusercontent.com/94060932/150673806-66451600-5419-47f4-998a-3b5ad579a3f1.jpg, enabled=true
 
 ================Loon==============
