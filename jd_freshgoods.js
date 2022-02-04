@@ -1,6 +1,6 @@
 /*
 活动地址：https://u.jd.com/Pw49x5p
-cron 0-59/8 1 * * *
+cron 0-59/8 1,2,3 * * *
 */
 const $ = new Env('搞鸡玩家-春节游戏互动');
 const notify = $.isNode() ? require('./sendNotify') : '';
